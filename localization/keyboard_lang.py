@@ -1,0 +1,21 @@
+select_type_yur = dict(uz="🏢Yuridik shaxslar", ru="🏢Юридический лицо")
+select_type_fiz = dict(uz="👨‍💼Jismoniy shaxslar", ru="👨‍💼Физический лицо")
+select_language = dict(uz="⚙️Tilni o'zgartirish", ru="⚙️Изменить язык")
+back = dict(uz="🔙Orqaga", ru="🔙Назад")
+prev = dict(uz="⬅️Orqaga", ru="⬅️Назад")
+next = dict(uz="➡️Oldinga", ru="➡️Вперёд")
+back_to_main = dict(uz="🔙Bosh menuga qaytish", ru="🔙На главное меню")
+admin_quest = dict(uz="Savollarni o'zgartirish", ru="Изменить вопросы")
+quest_emehmon = dict(uz="E-MEHMON bo'yicha savollar", ru="Вопросы по системе E-MEHMON")
+quest_ovir = dict(uz="OVIRga tegishli savollar", ru="Вопросы касающиеся ОВиР")
+quest_tur = dict(uz="Turistik soliq bilan bog'liq savollar", ru="Вопросы связанные с туристическим сбором")
+connect_to_disp = dict(uz="💌Biz bilan aloqa", ru="💌Связаться с нами")
+yur_fiz_pay = dict(uz="💵Tolov", ru="💵Оплата")
+yur_fiz_reg = dict(uz="📋Registratsiya", ru="📋Регистрация")
+yur_control = dict(uz="🔑Kirish va kirishni boshqarish", ru="🔑Управление доступом и логинами")
+yur_total_dogovor =dict(uz="📄Shartnoma tuzish", ru="📄Заключение договора")
+fiz_log = dict(ru="🔑Вход Регистрация. Восстановление ", uz="🔑Kirish Ro'yxatdan o'tish. Qayta tiklash")
+fiz_cadastr =dict(uz="📜Kadastr bilan bog'liq muammolar", ru="📜Проблемы с кадастром")
+
+
+
